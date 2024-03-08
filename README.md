@@ -9,6 +9,7 @@ graph TD;
     patterns_n_principles[Patterns and principles];
     
     patterns_n_principles ---> design_patterns[Design patterns];
+    click patterns_n_principles "https://github.com/LastovkinKirill/design-patterns/" "link to repo"
     
     network[Network and security]
     programming_n_oop[Programming and OOP]
